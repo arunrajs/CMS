@@ -1,0 +1,73 @@
+#ptp_center_id_section,#id_okay,#id_not_okay,#application_id_okay,#application_id_not_okay,#id_okay_email,#id_not_okay_email{
+	display: none;
+}
+#viewer-ink-host, #plugin{
+	height: 100%;
+}
+.add_plus{
+  background-color: green;
+    color: #ffff;
+    width: 45%;
+    padding-left: 0.5em;
+    padding-right: 0.4em;
+}
+.reove_minus{
+      background-color: #f70c37;
+    color: #ffff;
+    width: 50%;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+.add_remove_td{
+  text-align: center;
+}
+.project_reg_right{
+  border-left: 1px solid black;
+}
+
+.brand-link {
+    font-size: 1em !important;
+    font-weight: 600 !important;
+    }
+    .top_btn{
+
+      margin-right: 1% !important;
+    }
+  .ui-autocomplete{
+    z-index: 9999 !important;
+  }
+
+  @media (min-width: 1200px){
+
+    .modal-xl {
+    max-width: 97% !important;
+}
+  }
+.remove_txt{
+    color: red;
+    font-size: 1em;
+    font-weight: bold;
+}
+.hidden_tbl{
+  display: none;
+}
+.center_me{
+  display: flex !important;
+   justify-content: center !important;
+}
+.normal_fontSize{
+  font-weight: 100 !important;
+}
+.form-control{
+ color: #0558b1 !important;
+}
+.form-control:focus{
+color: #0558b1 !important;
+}
+.form-control{
+
+  border: 1px solid #24292f !important;
+}
+  .mandat_fld{
+        border-left: 2px solid red !important;
+  }
